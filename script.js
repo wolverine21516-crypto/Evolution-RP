@@ -1,6 +1,6 @@
 // CONFIG — EDIT THESE ONLY
 const CONFIG = {
-  cfxCode: "cfx.re/join/kj86d7",
+  cfxCode: "kj86d7",
   cityRules: "https://docs.google.com/document/d/1Vu6Mkjfd5blBw91mkonIvegSBG5c7Jv9Mpvemm7fySY/edit?tab=t.0",
   discordInvite: "https://discord.gg/ug8j3GDZ",
   tebex: "https://crackhead.tebex.io/",
