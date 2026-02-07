@@ -1,15 +1,12 @@
 // CONFIG — EDIT THESE ONLY
 const CONFIG = {
-  cfxCode: "YOUR_CFX_CODE",
-  cityRules: "YOUR_CITY_RULES_LINK",
-  discordRules: "YOUR_DISCORD_RULES_LINK",
-  discordInvite: "YOUR_DISCORD_INVITE",
-  tebex: "YOUR_TEBEX_LINK",
-  contestForm: "YOUR_CONTEST_FORM_LINK",
+  cfxCode: "cfx.re/join/kj86d7",
+  cityRules: "https://docs.google.com/document/d/1Vu6Mkjfd5blBw91mkonIvegSBG5c7Jv9Mpvemm7fySY/edit?tab=t.0",
+  discordInvite: "https://discord.gg/ug8j3GDZ",
+  tebex: "https://crackhead.tebex.io/",
   staff: [
-    { name: "OwnerName", role: "Owner" },
-    { name: "CoOwnerName", role: "Co-Owner" },
-    { name: "AdminName", role: "Admin" }
+    { name: "Jay2k", role: "Owner" },
+    { name: "LeleTHEDead", role: "Co-Owner" },
   ]
 };
 
